@@ -14,6 +14,6 @@ Bonus - Convert adresses into geodatas
 
 3 - Graphical study (1) : from database to nodes & edges
 
-4 - Graphical study (2) : algos, stats and histograms from network
+4 - Graphical study (2) : algorithms, stats/ histograms
 
 5 - Graphical study (3) : visualize networks in Python NetworkX o Gephi

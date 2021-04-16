@@ -8,7 +8,7 @@ This program includes several steps. Feel free to pick and choose the elements t
 
 1 - Import & Concat European Framework-programs datasets from Cordis/ EU open data portal : exemple with FP6
 
-Bonus - Convert adresses into geodatas for Geographical study
+Bonus - Convert adresses into geodatas
 
 2 - Import & Concat all FPs
 

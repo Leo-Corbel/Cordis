@@ -1,4 +1,4 @@
-# Objectives, modalities and issues of this program
+# Objectives, modalities and issues of the program
 The objective of this program is to exploit the European databases (freely available at EU Open Data Portal) listing all the projects funded under the framework-programs; 
 FP1, FP2, FP3, FP4, FP5, FP6, FP7, FP8/H2020.
 

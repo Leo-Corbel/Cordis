@@ -10,10 +10,10 @@ This program includes several steps. Feel free to pick and choose the elements t
 
 Bonus - Convert adresses into geodatas
 
-2 - Import & Concat all FPs
+2 - Columns' text pre-processing
 
-3 - Graphical study (1) : from database to nodes & edges
+3 - Database to nodes & edges
 
-4 - Graphical study (2) : algorithms, stats/ histograms
+4 - Graph : algorithms, stats/ histograms
 
-5 - Graphical study (3) : visualize networks in Python NetworkX o Gephi
+5 - Graph : visualize networks in Python NetworkX o Gephi

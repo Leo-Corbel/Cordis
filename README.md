@@ -4,7 +4,7 @@ FP1, FP2, FP3, FP4, FP5, FP6, FP7, FP8/H2020.
 
 The database contains many very interesting information, but sometimes fragmented for older framework programmes.
 
-This program includes several steps. Feel free to pick and choose the elements that interest you:
+This program includes several steps.
 
 1 - Import & Concat European Framework-programs datasets from Cordis/ EU open data portal : exemple with FP6
 
